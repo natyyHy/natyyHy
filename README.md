@@ -9,7 +9,7 @@
 natyyHy/natyyHy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h3>* GitHub Stats *</h3>
+<h3>* GitHub Stats *</h3><br>
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=natyyHy&show_icons=true&include_all_commits=true&theme=tokyonight" />
 </a>
@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 
 ##
 
-<h3>* My contacts *</h3>
+<h3>* My contacts *</h3><br>
 <div> 
   <a href = "mailto:natielegrazielly5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/natiele-grazielly-014b252b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
