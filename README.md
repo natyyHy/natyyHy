@@ -36,8 +36,7 @@ You can click the Preview link to take a look at your changes.
 <h3>* My contacts *</h3>
 <div> 
   <a href = "mailto:natielegrazielly5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/natiele-grazielly-014b252b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="www.linkedin.com/in/natiele-grazielly-014b252b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <picture align="center">
