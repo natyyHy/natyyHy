@@ -1,4 +1,4 @@
-<img align="center" alt="naty-c++" height="250" width="1000" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVoZDI5OHRqaXZyZHRwdGJzODZicTRwMmQ5MzdxMGU2cXNheTcyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A4wSE2GQGTpfi/giphy.gif" />
+<img align="center" alt="naty-c++" height="180" width="1000" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVoZDI5OHRqaXZyZHRwdGJzODZicTRwMmQ5MzdxMGU2cXNheTcyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A4wSE2GQGTpfi/giphy.gif" />
 
 <div align="center">
   <a href="https://git.io/typing-svg">
