@@ -24,10 +24,10 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">🌟 GitHub Stats 🌟</h3>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=natyyHy&show_icons=true&include_all_commits=true&theme=tokyonight" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=natyyHy&show_icons=true&count_private=true&hide_border=true&title_color=ffb6c1&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=natyyHy&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natyyHy&layout=compact&hide_border=true&title_color=ffb6c1&text_color=00bfbf&bg_color=0d1117" />
   </a>
 </div>
 
