@@ -8,7 +8,7 @@
 
 ##
 
-## 👋 Olá! Eu sou a Natiele! ✨
+## 👋 Olá! Eu sou a Natiele! ✨🌺
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
 💡 Apaixonada por tecnologia, desafios e novos aprendizados <br>
@@ -42,8 +42,7 @@ You can click the Preview link to take a look at your changes.
   <!---<img align="center" alt="naty-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>--->
 </div>
 
-##
-
+---
 <h3>📚 Studying at the moment</h3><br>
 <div style="display: inline_block">
   <img align="center" alt="naty-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
@@ -54,15 +53,8 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ---
-
-<br>
-
-```
-" 💫 A jornada de mil linhas de código começa com o primeiro `console.log()`"
-```
-
 <h3>📬 My contacts</h3><br>
-<div> 
+<div style="display: inline_block"> 
   <a href="mailto:natielegrazielly5@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
@@ -70,6 +62,12 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
+
+#
+
+```
+"💫 A jornada de mil linhas de código começa com o primeiro console.log()"
+```
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/natyyHy/natyyHy/output/github-contribution-grid-snake-dark.svg">
