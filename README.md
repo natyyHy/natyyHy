@@ -77,4 +77,4 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/natyyHy/natyyHy/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br><br>
+
