@@ -71,8 +71,6 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
-<br>
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/natyyHy/natyyHy/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/natyyHy/natyyHy/output/github-contribution-grid-snake-dark.svg">
